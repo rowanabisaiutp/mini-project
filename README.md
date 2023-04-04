@@ -1,3 +1,5 @@
+En esta actividad consiste en usar al framework de java, en la cual, sirvió como practica en la implementación de parametros a travez de GET, y usando query string URL en la impresion de datos.
+
 Actividad 1
 primer parametro
 
